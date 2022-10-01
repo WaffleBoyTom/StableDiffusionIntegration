@@ -18,6 +18,10 @@ if you haven't got Conda or anything: read these
 
 https://www.howtogeek.com/830179/how-to-run-stable-diffusion-on-your-pc-to-generate-ai-images/
 
+Demo video here (subscribe for more "cool" stuff)  : 
+
+https://youtu.be/qwvWNhVUwkU
+
 
 
 
