@@ -7,8 +7,11 @@ what the code esentially does is create a .json with your parameters, the .py th
 HOW TO :
 
 Set your parameters on the HDA then click Create Prompt
+
 Open Conda and activate your environment with :  conda activate nameofyourenv
+
 run the updated script with : python directory/optimized_txt2img_WBT.py (it should be pasted in your stable diffusion directory so probably pathSD/optimizedSD/optimized_txt2img_WBT.py
+
 once that has finished processing, fetch the images with 'fetch_script'
 
 As of right now, this only exists for the optimized version of the txt2img.py but if you're interested I can update the normal version as well
