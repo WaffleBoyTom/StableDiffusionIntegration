@@ -8,13 +8,15 @@ HOW TO :
 
 Set your parameters on the HDA then click Create Prompt
 
-Open Conda and activate your environment with :  conda activate nameofyourenv
+You need to edit the paths in the .bat files
 
-run the updated script with : python directory/optimized_txt2img_WBT.py (it should be pasted in your stable diffusion directory so probably pathSD/optimizedSD/optimized_txt2img_WBT.py
+You need to edit the path to the .bat file in the python module of the HDA in the runSD() function
 
-once that has finished processing, fetch the images with 'fetch_script'
+You need to edit the config and DEFAULT_CKPT variables in the .py scripts
 
-As of right now, this only exists for the optimized version of the txt2img.py but if you're interested I can update the normal version as well
+You need to have the keyboard module installed inside of Houdini. if you have pip installed then just do : hython -m pip install keyboard
+
+If you don't have pip installed , the great Paul Ambrosiussen has a video on youtube explaining how you can install it
 
 
 if you haven't got Conda or anything: read these
@@ -23,9 +25,14 @@ https://www.howtogeek.com/830179/how-to-run-stable-diffusion-on-your-pc-to-gener
 
 Demo video here (subscribe for more "cool" stuff)  : 
 
-https://youtu.be/qwvWNhVUwkU
+https://youtu.be/sALAHsBlvy4
 
 
+Hope this works for you and you can get something out of it !
+
+Big thank you to everyone who's helped me with this : Dana Ericson on Facebook, Jenny from SideFx Support, Henry Foster over on the mops discord, Paul Ambrosiussen for the pip tutorial
+
+Houdini > everything else 
 
 
 Hit me up on Discord : WaffleboyTom#1929
