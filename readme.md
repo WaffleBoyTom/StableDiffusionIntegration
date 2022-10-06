@@ -32,7 +32,5 @@ Hope this works for you and you can get something out of it !
 
 Big thank you to everyone who's helped me with this : Dana Ericson on Facebook, Jenny from SideFx Support, Henry Foster over on the mops discord, Paul Ambrosiussen for the pip tutorial and Stack Overflow obviously
 
-Houdini > everything else 
-
 
 Hit me up on Discord : WaffleboyTom#1929
